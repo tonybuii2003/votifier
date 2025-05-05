@@ -3,7 +3,7 @@
 ## Introduction
 
 ### Screenshot
-<img src="https://imgur.com/9AIjkGC.jpeg" alt="VotifierScreen" style="display:block; max-width:100%; margin-bottom:1rem; width:1000px; height:auto;" />
+<img src="https://imgur.com/VYOsft7.png" alt="VotifierScreen" style="display:block; max-width:100%; margin-bottom:1rem; width:1000px; height:auto;" />
 
 ## Installation
 
