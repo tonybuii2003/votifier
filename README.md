@@ -1,5 +1,10 @@
 # Votifier
 
+## Introduction
+
+### Screenshot
+<img src="https://imgur.com/9AIjkGC" alt="VotifierScreen" style="display:block; max-width:100%; margin-bottom:1rem; width:500px; height:auto;" />
+
 ## Installation
 
 ### Prerequisites
