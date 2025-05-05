@@ -1,5 +1,6 @@
 # Votifier
-
+## Description
+A web application to analyze and visualize demographic and economic voting patterns
 ## Introduction
 
 ### Screenshot
